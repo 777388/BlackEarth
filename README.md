@@ -1,3 +1,6 @@
+Usage: python3 degrees.py numberofmovements# rad|deg lengthofmovement# anglemod# key lock
+
+usage: python3 CTE.py encryption, file, output
 
 Compiled this is what the positions look like. 
 
