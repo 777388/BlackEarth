@@ -4,8 +4,8 @@ types = []
 charred = []
 checks = []
 i = 0
-class typer:
-    pass
+#class typer:
+    #pass
 #x = lambda b: print(c = type(b))
 with open(sys.argv[1], "r") as encryption:
     with open(sys.argv[2], "r") as basefile:
