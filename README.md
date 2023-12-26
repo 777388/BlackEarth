@@ -2,7 +2,7 @@ Usage: python3 degrees.py numberofmovements# rad|deg lengthofmovement# anglemod#
 
 (1st program optional either remove the position, or come up with your own encryption for the position, I wont help you there as thats for modelling, failure to make a decision will not let the final output work.)
 
-Instead if you do not decide to make a decision, you can use a wordlist of your choosing for encryption file
+Instead if you do not decide to make a decision, you can use a wordlist of your choosing for encryption file, this will not include Positional modelling
 
 usage: python3 CTE.py encryption, file, output.py
 
